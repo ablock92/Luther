@@ -1,0 +1,55 @@
+Design draft format
+
+Client:
+
+My client is a movie studio(?). Basically someone who owns movie rights and makes decisions on what movies are made.
+
+Client's question/need:
+
+My client owns the rights to a lot of different movies. He has asked me to develop a model that can predict if a sequel — or third installment, fourth installment, etc. — will be profitable. 
+
+My "population" of movies:
+
+My population of movies will include every sequel that has been made. The features will mostly come from the previous 
+
+Possible Sources
+http://www.the-numbers.com/movies/series/Sequel.php
+http://www.the-numbers.com/movies/franchises/
+http://en.wikipedia.org/wiki/Category:Sequel_films
+
+
+Features per movie:
+
+Previous Installment Features
+How many previous installments are there?
+Total Domestic Gross
+Worldwide Gross
+Budget
+Profit
+DVD Sales
+Netflix views?
+Legs…How long movie stayed in theaters
+Opening night box office vs. later box office
+Director
+Producer
+Writer
+Actors
+Leads
+Genre
+Source material
+Remake
+Comic book
+Book
+Short Story
+TV Show
+Awards won
+
+New Movie Features
+Director - Same as previous?
+Writer - Same as previous?
+Actors
+Overlap with previous film
+Budget (Expected?)
+Sequel or Prequel
+
+
